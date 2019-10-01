@@ -6,7 +6,7 @@
 </head>
 
 <body >
-        <?php include 'nav.php' ?>;
+        <?php include 'nav.php' ?>
         
 		<h1> Contact With Us</h1><br>
 		<h2>We do appreciate your feedback</h2><br>

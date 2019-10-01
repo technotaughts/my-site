@@ -118,7 +118,7 @@ body {
     <a class="logoburger" class=logoburger"   href="#Compare">FAMA</a><br>
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <a href="index.php">Home</a>
-    <a href="test.html>PopularComparisons</a>
+    <a href="comparephone.php">PopularComparisons</a>
     <a href="compare.php">Compare</a>
     <a href="news.php">News</a>
     <a href="contactform.php">Contact</a>
@@ -130,7 +130,7 @@ body {
 
 <div class="nav-link">
     <a href="index.php">Home</a>
-    <a href="test.html">PopularComparisons</a>
+    <a href="comparephone.php">PopularComparisons</a>
     <a href="compare.php">Compare</a>
     <a href="news.php">News</a>
     <a href="contactform.php">Contact</a>

@@ -12,7 +12,7 @@
 	<title>Products Comparison Table | CodyHouse</title>
 </head>
 <body>
-    <?php include 'nav.php' ?>
+	<?php include 'nav.php' ?>
 	<section class="cd-intro">
 		<h1>Products Comparison Table</h1>
 	</section> <!-- .cd-intro -->
@@ -23,7 +23,7 @@
 
 			<div class="actions">
 				<a href="#0" class="reset">Reset</a>
-				<a href="#0" class="filter">Filter</a>
+				<a href="#0" class="filter">Compare</a>
 			</div>
 		</header>
 

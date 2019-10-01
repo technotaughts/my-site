@@ -45,7 +45,7 @@
 </div>   
 <div class="back">   
     <div>
-        <a href="#img">
+        <a href="moblephones/2.php">
         <img  src="mobile img/2.png">
         </a>
     </div>
@@ -53,7 +53,7 @@
 
 <div class="back">
     <div >
-        <a href="#img">
+        <a href="moblephones/3.php">
         <img  src="mobile img/3.png">
         
         </a>
@@ -61,7 +61,7 @@
 </div>   
 <div class="back">   
     <div>
-        <a href="#img">
+        <a href="moblephones/4.php">
         <img  src="mobile img/4.png">
         </a>
     </div>
